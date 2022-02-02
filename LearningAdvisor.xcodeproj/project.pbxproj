@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E48EA9BE27AA37CE00493432 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		E4DF255E27A4EEC700793FED /* LearningAdvisor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningAdvisor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DF256127A4EEC700793FED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E4DF256327A4EEC700793FED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 				E4DF256A27A4EEC800793FED /* Assets.xcassets */,
 				E4DF256C27A4EEC800793FED /* LaunchScreen.storyboard */,
 				E4DF256F27A4EEC800793FED /* Info.plist */,
+				E48EA9BE27AA37CE00493432 /* MyPlayground.playground */,
 			);
 			path = LearningAdvisor;
 			sourceTree = "<group>";
